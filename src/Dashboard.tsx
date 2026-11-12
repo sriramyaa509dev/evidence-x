@@ -4,7 +4,7 @@ import {
   BrainCircuit, LayoutDashboard, Files, Network,
   Search, ShieldCheck, Settings, Bell, UploadCloud,
   FileText, Activity, Sparkles, ArrowUpRight,
-  ChevronRight, Command, Zap, Clock3
+  ChevronRight,  Zap, Clock3
 } from 'lucide-react';
 
 const navigation = [
